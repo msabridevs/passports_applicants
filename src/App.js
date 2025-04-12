@@ -40,7 +40,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-gray-100 to-blue-50 flex items-center justify-center p-6">
       <div className="bg-white shadow-2xl rounded-2xl p-10 max-w-xl w-full text-center">
         <h1 className="text-[24px] font-bold text-blue-700 mb-6">
-          الاستعلام عن طلب الأحوال المدنية
+          الاستعلام عن طلبات جوازات السفر-وثائق السفر-مسائل الجنسية
         </h1>
 
         <input
